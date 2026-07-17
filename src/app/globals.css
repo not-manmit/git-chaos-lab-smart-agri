@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  background: #f8fafc;
+}
+
+.dark body {
+  background: #111827;
+}
+
+/* marketplace-debug-layout
+   This old training helper should have been removed before shipping.
+*/
+* {
+  display: block !important;
+}
