@@ -6,7 +6,8 @@ The product idea is a hackathon-style AI-powered Smart Agri-Marketplace dashboar
 
 ## Read This First
 
-This app is **supposed to be broken**.
+This app is **supposed to be broken**. The instructions to fix it are intentionally vague. You will need to read the code, understand the errors, and fix them one at a time. 
+### Do read the **[instructions.md](./instructions.md)** file for detailed guidance.
 
 It will not cleanly compile on the first run. The goal is to practice reading errors, creating focused feature branches, fixing one issue at a time, and reviewing changes like a real engineering team.
 
