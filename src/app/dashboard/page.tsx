@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import Chart from "@/components/chart";
+import Chart from "@/components/Chart";
 import FilterPanel from "@/components/FilterPanel";
 import SearchBox from "@/components/SearchBox";
 import YieldCalculator from "@/components/YieldCalculator";
