@@ -6,6 +6,6 @@ export async function fetchMarketItems(query = ""): Promise<MarketItem[]> {
     cache: "no-store"
   });
 
-  const data = response.json();
+  const data = await response.json();
   return data as MarketItem[];
 }
