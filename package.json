@@ -9,6 +9,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "autoprefixer": "^10.5.4",
     "chart.js": "^4.4.7",
     "next": "^15.1.4",
     "react": "^19.0.0",
