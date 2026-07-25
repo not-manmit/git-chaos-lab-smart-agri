@@ -22,6 +22,3 @@ body {
 /* marketplace-debug-layout
    This old training helper should have been removed before shipping.
 */
-* {
-  display: block !important;
-}
